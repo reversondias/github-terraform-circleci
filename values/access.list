@@ -1,0 +1,5 @@
+python_pip = false 
+twine = false
+docker = true 
+kubernetes =  false
+git = false

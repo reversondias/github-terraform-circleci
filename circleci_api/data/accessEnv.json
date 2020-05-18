@@ -1,0 +1,29 @@
+[
+	{
+		"twine" : [
+			"TWINE_PASSWORD",
+			"TWINE_USERNAME",
+			"PIP_INDEX_URL"
+		],
+		"docker" : [
+			"DOCKER_USER",
+			"DOCKER_PASS"
+		],
+		"kubernetes" : [
+			"AWS_ACCESS_KEY_ID_AUTH",
+			"AWS_SECRET_ACCESS_KEY_AUTH",
+			"KUBECONFIG_BUCKET",
+			"REGISTRY_SERVER",
+			"REGISTRY_USERNAME",
+			"REGISTRY_PASSWORD"
+		],
+		"git" : [
+			"GIT_TOKEN"
+		],
+		"python_pip" : [
+			"PIP_INDEX_URL",
+			"PYPI_PASSWORD",
+			"PYPI_USERNAME"
+		]
+	}
+]
